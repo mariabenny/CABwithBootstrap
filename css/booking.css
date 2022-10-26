@@ -1,0 +1,33 @@
+/* .head{
+    background-color: rgb(234, 234, 21);
+    height: 3cm;
+    color: black;
+    font-size: 20pt;
+    display: flex;
+    align-items: center;
+} */
+
+.tab1{
+    color:rgb(234, 234, 21);
+    font-size: 15pt;
+    display: flex;
+
+    border-spacing: 2em;
+}
+
+.btnx{
+    background-color: rgb(234, 234, 21);
+    border-color: rgb(234, 234, 21);
+    border-radius: 3cm;
+    color: black;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.formtable{
+    align-self: center;
+    color: rgb(234, 234, 21);
+}

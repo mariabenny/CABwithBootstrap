@@ -1,0 +1,35 @@
+.head{
+    background-color: rgb(234, 234, 21);
+    height: 3cm;
+    color: black;
+    font-size: 20pt;
+    display: flex;
+    align-items: center;
+}
+
+.tab1{
+    color:black;
+    font-size: 15pt;
+    display: flex;
+
+    border-spacing: 2em;
+}
+
+.logtab{
+    display: flex;
+    margin-top: 3cm;
+    justify-content: center;
+    align-items: center;
+}
+
+.subbtn{
+    color: black;
+    border-color: rgb(234, 234, 21);
+    border-radius: 3cm;
+    background-color: rgb(234, 234, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2.5cm;
+    height: 1.5cm;
+}
